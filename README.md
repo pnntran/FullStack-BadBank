@@ -3,20 +3,20 @@
 ## Description 
 The "Bad Bank" project is a Full-Stack Application built using the MERN stack for the development of the front-end architecture and back-end database. This application serves as the MIT Capstone project to showcase all the development tools taught and technical challenges given throughout the MIT Full-Stack Development program. Functionalities for this project include creating an account, logging into an account, depositing into a balance, and withdrawing from a balance. Validation is included to check login credentials, correct value for deposit, and sufficient funds for withdrawal. 
 
-##Installation
+## Installation
 1. To use this project, clone the repository to your local machine. 
 2. Install NPM packages with "npm install". 
 3. Run application with "node index.js". 
 4. Open "http://localhost:3000/" in a browser. 
 
-##Technology Used
+## Technology Used
 * React
 * Node.js
 * Docker
 * MongoDB
 * Boostrap
 
-##Features
+## Features
 * Create an Account
 * Log into an Account
 * Deposit to a Balance
@@ -25,7 +25,7 @@ The "Bad Bank" project is a Full-Stack Application built using the MERN stack fo
 * Validation of Correct Deposit
 * Validation of Sufficient Funds for Withdrawl
 
-##License
+## License
 
 MIT License
 
